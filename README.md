@@ -6,6 +6,4 @@ meet x v2 MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messa
 
 - 🤝 I’m looking for help with [X-V2-MD](https://github.com/Darkside-Md/X-V2-MD)
 
-- 📫 How to reach me **boyinconnu5@gmail.com**
-- Img 
-https://files.fm/u/j6f7ersfzd
+- 📫 How to reach me **boyinconnu5@gmail.com*
