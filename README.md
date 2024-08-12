@@ -2,7 +2,6 @@
 # X-V2-MD 
 meet x v2 MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. x v2 md brings a world of excitement and joy to your chats ✨🤖
 
-
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/DjDaUU8daIOKk0JByPmUBE">
@@ -48,7 +47,7 @@ meet x v2 MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messa
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://whatsapp.com/channel/0029Va66s2IJENxvTJjUtM1w" target="_blank">
+ <a href="https://whatsapp.com/channel/0029ValSilu9Bb62q8tgBr3p" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  <a href="https://tinyurl.com/Technical-Naveed-Official" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -61,10 +60,10 @@ meet x v2 MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messa
 
 
 ## 1 *`⨷ FORK THIS REPO`*
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
+<a href='https://github.com/naveeddogar/X-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=graphql&logoColor=white'/></a>
 
 ## 2 *`⨷ SCAN OR PAIR QR`*
-<a href='https://king-md-session.onrender.com/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
+<a href='https://X-V2-MD-session.onrender.com/' target="_blank"><img alt='scan repo' src='https://img.shields.io/badge/Get Session Id-black?style=for-the-badge&logo=flutter&logoColor=white'/></a>
 
 ## 3 *`⨷ NOW DEPLOY`*
 
