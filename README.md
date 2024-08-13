@@ -2,75 +2,106 @@
 # X-V2-MD 
 meet x v2 MD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. x v2 md brings a world of excitement and joy to your chats ✨🤖
 
-<details close>
-<summary>ð˜¾ð™ƒð˜¼ð™‰ð™‚ð™€ ð™‡ð™Šð™‚</summary>
+<p align="center">  
+  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
+    <img alt="wasi" height="300" src="https://telegra.ph/file/c4221591d27bb38b9b966.jpg">
+    <h1 align="center">WASI MD V2</h1>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
+<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
+</p>
 
-- *Fixed Download and AI*
-- ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
-- *Fixed `All Ai` Commands*
-- *Fixed `Spotify` Command*
-- *Fixed `All Anime` Commands*
-- *Fixed `Insta,Fb,Tiktok` Commands*
-- *Fixed All Not Working Commands, Due To Api*
-- *Added My Own Api In Bot https://api.maher-zubair.tech*
-- ***SIGMA-MD v1.4.9 Releases, 16 Feb,2024***
-- *Added `Pair Code` For Session ID*
-- *Added New `Session ID` For Bot*
-- *Added New `Qr`*
-- *Added Massive Anime*
-- *Added 11 AI*
-- *Added 18 GFX*
-- *Added Twitter Templates On Celebreties*
-- *Added `Afk` Cmd*
-- *Added `Teddy` Cmd*
-- *Fixed `Insta` Cmd*
-- *Fixed `Tiktok` Cmd*
-- *Fixed `Facebook` Cmd*
-- *Changed `Apk` Cmd Style*
-- *Changed `Hack` Cmd Style*
-- *Changed `Uptime` Cmd Style*
-- *Added Some New `Logos` Cmds*
-- *Added `Steal` Cmd For Sticker*
-- *Added `Islamic` Cmd Wallpaper*
-- *Added `Nasa` Cmd To Get Nasa News*
-- *Added `Tech` Cmd To Get Tech News*
-- *Fixed `Bgm` Cmd Added on/off Case*
-- *Fixed `Welcome` Cmd Added Off Case*
-- *Fixed `Goodbye` Cmd Added Off Case*
-- *Added `Mode` Cmd To Change Bot Mode*
-- *Renamed `plugins` Cmd To `Allplugins`*
-- *Added `Theme` Cmd To Change Bot Theme*
-- *Added `Ip` Cmd For Ip Address Stalking*
-- *Added `pp` Cmd To Change/Remove Your Dp*
-- *Added `Sticky` Cmd To Download Stickers*
-- *Fixed `Antibot` Cmd Added Delete Option*
-- *Fixed `Antilink` Cmd Added Delete Option*
-- *Fixed `Cpu` Cmd To Get Your Server Info*
-- *Added `Poetry` Cmd For Urdu/Hindi Poetry*
-- *Added `Gc` Cmd To Get Group Full Details*
-- *Added `Github` Cmd To Stalk Github Users*
-- *Added `Setprefix` Cmd To Change Bot Prefix*
-- *Added `Category` Cmd To Get All Categories*
-- *Moved `Media` Category To External PLugins*
-- *Added `Antiwords` Cmd To Prevent Bad Words*
-- *Added `#` Cmd To Download Someone's Status*
-- *Added `Calc` Cmd For Simple MAth Operations*
-- *Added `Lyrics` Cmd To Get Lyrics Of Any Song*
-- *Added `typing` Cmd To Turn On/Off Auto-Typing*
-- *Fixed `Help` Cmd To Get Details About Any Cmd*
-- *Added `Spotify` Cmd To Download Spotify Songs*
-- *Added `Online` Cmd To Turn On/Off Always-Online*
-- *Added `Tempmail` Cmd To Generate Mails/Get Info*
-- *Added `Plugin` Cmd To Get All External Plugins*
-- *Added `Npm1` Cmd To Get Info About Npm Packages*
-- *Added `Reaction` Cmd To Turn On/Off Auto-Reaction*
-- *Added `Read` Cmd To Turn On/Off Auto-Read Messages*
-- *Added `Stssaver` Cmd To Auto-Download Your Statuses*
-- *Added `Stsview` Cmd To Turn On/Off Auto-Status View*
-- *Added `Recording` Cmd To Turn On/Off Auto-Recording*
-- *Added `Insult` Cmd To Insult Someone By Mention/Reply*
-- *Added `Wamod` Cmd To Download Official Moded Whatsapps*
-- *Added `Levelup` Cmd To Turn On/Off Auto Levelup-Message*
-- *Added `Flirt` Cmd To Flirt With Someone By Mention/Reply*
-- *Added `Lines` Cmd To Throw Lines At Someone By Mention/Reply
+#### 𝐒𝐄𝐓𝐔𝐏
 
+1.𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎
+   
+<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+2.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑 1
+ 
+<a href='https://wasi-bot-web.vercel.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+3.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
+    
+<a href='https://wasi-bot-web.vercel.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+#### `𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐒𝐄𝐂𝐀𝐓𝐈𝐎𝐍`
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=black &style=for-the-badge&logo=msi"></a>
+# <a href="https://railway.app/template/OPU1WA?referralCode=RidRsW"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=black&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=black&style=for-the-badge&logo=msi"></a>
+# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=black&style=for-the-badge&logo=msi"></a>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/OPU1WA?referralCode=RidRsW)
+
+####  
+# My Awesome Project
+
+Welcome to my awesome project! Here you'll find...
+## YouTube Channel
+
+Check out my YouTube channel for tutorials and more!
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
+## WhatsApp Channel
+
+Join our WhatsApp channel for updates and discussions!
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
+## WhatsApp Support Group
+
+Join our WhatsApp support group for assistance and discussions!
+
+[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
+
+
+### 𝐆𝐎𝐎𝐆𝐋𝐄 𝐂𝐋𝐎𝐔𝐃 𝐀𝐍𝐃 𝐀𝐍𝐘 𝐎𝐓𝐇𝐄𝐑 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐆𝐈𝐕𝐄𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐀 
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [WASI MD V2](https://github.com/Itxxwasi/WASI-MD-V2) ON ANY TERMINAL
+```
+sudo apt -y update && sudo apt -y upgrade
+```
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/Itxxwasi/WASI-MD-V2 Itxxwasi
+cd Itxxwasi
+yarn install
+```
+```
+echo "SESSION_ID : ENTER YOUR SESSION ID HERE" > config.env
+```
+```
+pm2 start . --name Itxxwasi --attach --time
+```   
+## 𝐖𝐀𝐑𝐍𝐈𝐍𝐆
+- 𝘛𝘩𝘪𝘴 𝘣𝘰𝘵 𝘪𝘴 𝘯𝘰𝘵 𝘮𝘢𝘥𝘦 𝘣𝘺 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘐𝘯𝘤.` 𝘚𝘰 𝘮𝘪𝘴𝘶𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘣𝘰𝘵 𝘮𝘪𝘨𝘩𝘵 `𝘣𝘢𝘯` 𝘺𝘰𝘶𝘳 `𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵!`(𝘛𝘩𝘰𝘶𝘨𝘩 𝘺𝘰𝘶𝘳 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘶𝘯𝘣𝘢𝘯𝘯𝘦𝘥 𝘰𝘯𝘭𝘺 𝘰𝘯𝘤𝘦.)
+- 𝘐 𝘢𝘮 𝘯𝘰𝘵 𝘳𝘦𝘴𝘱𝘰𝘯𝘴𝘪𝘣𝘭𝘦 𝘧𝘰𝘳 𝘣𝘢𝘯𝘯𝘪𝘯𝘨 𝘺𝘰𝘶𝘳 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
+- 𝘜𝘴𝘦 𝘢𝘵 𝘺𝘰𝘶𝘳 𝘰𝘸𝘯 𝘳𝘪𝘴𝘬 𝘣𝘺 𝘬𝘦𝘦𝘱𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘸𝘢𝘳𝘯𝘪𝘯𝘨 𝘪𝘯 𝘮𝘪𝘯𝘥.
+
+<h2 align="center">  NOTICE
+</h2>
+   
+░▒█▓▒░
