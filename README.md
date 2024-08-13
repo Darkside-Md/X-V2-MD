@@ -56,5 +56,20 @@ ii. [`PAIRING CODE 1 `]( ) OR [`PAIRING CODE 2 `]( )
 **3.Create an account on UPTIME TO MAKE YOUR RENDER BOT STABLE**
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-**4. Join our telegram Channel **
+#### follow me follow me 
+
+
+4. Join our telegram Channel **
 - <https://t.me/inconnutech>
+
+5. join our WhatsApp channel **
+-<https://whatsapp.com/channel/0029VagRTIL35fLznbNoaV21>
+
+
+#### WhatsApp group
+
+<https://chat.whatsapp.com/DjDaUU8daIOKk0JByPmUBE>
+
+
+
+
