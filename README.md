@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://github.com/Darkside-Md?tab=followers"><img src="![Screenshot_20240811-154120](https://github.com/user-attachments/assets/74dfab25-3e40-4b6d-95e3-32c7877875cd"
+<a href="https://github.com/Darkside-Md?tab=followers">
   </p>
     <img alt="X-V2-MD" width="700" height="300" src="![Screenshot_20240811-154120](https://github.com/user-attachments/assets/74dfab25-3e40-4b6d-95e3-32c7877875cd)
 ">
