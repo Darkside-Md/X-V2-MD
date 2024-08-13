@@ -1,21 +1,19 @@
-<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<h1 align="center"> THE X-V2-MD DEVICE </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://github.com/Darkside-Md?tab=followers"><img src="![Screenshot_20240811-154120](https://github.com/user-attachments/assets/74dfab25-3e40-4b6d-95e3-32c7877875cd"
   </p>
-    <img alt="FLASH-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="X-V2-MD" width="700" height="300" src="![Screenshot_20240811-154120](https://github.com/user-attachments/assets/74dfab25-3e40-4b6d-95e3-32c7877875cd)
+">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a 
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
-  
+<a href="https://whatsapp.com/channel/0029VagRTIL35fLznbNoaV21"
+
 ***
 
 #### SETUP 
