@@ -1,4 +1,4 @@
-<h1 align="center"> THE X-V2-MD DEVICE </h1>
+<h1 align="center"> 𝐓𝐇𝐄 𝐅𝐋𝐀𝐒𝐇 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
 <p align="center">  
   
 ***
@@ -52,4 +52,4 @@ ii. [`PAIRING CODE 1 `]( ) OR [`PAIRING CODE 2 `]( )
 - <a href="https://uptimerobot.com"><img title="Deploy Now" src="https://img.shields.io/badge/CREATE NOW-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 **4. Join our telegram Channel **
-- <https://t.me/inconnutech>: 
+- <https://t.me/inconnutech>
