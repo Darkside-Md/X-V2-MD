@@ -1,5 +1,4 @@
-p align="center">  
-  <a href="https://whatsapp.com/channel/0029VagRTIL35fLznbNoaV21">
+<a href="https://whatsapp.com/channel/0029VagRTIL35fLznbNoaV21">
 
 
 # X-V2-MD 
